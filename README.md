@@ -1,6 +1,6 @@
 # Hi, I’m Ingrid 👋  
 
-🗺️ Geoprocessing Technician | 💻 Internet Systems Analyst | 📊 Learning Data Science & AI  
+Geoprocessing Technician | 💻 Internet Systems Analyst | 📊 Learning Data Science & AI | 🌐 Network Infrastructure Technician | 👩‍🎓 Computer Science Student
 
 I’m passionate about applying **Data Science and AI** to solve problems in **Cartography, Education, and Geoprocessing**.  
 
