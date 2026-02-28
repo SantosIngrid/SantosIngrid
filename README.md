@@ -1,11 +1,12 @@
 # Hi, I'm Ingrid 👋
 
-**Security & Infrastructure Analyst** | **Data Scientist in Training** | **Network Technician** | **Computer Science Student**
+**Security & Infrastructure Analyst** | **Network Technician** | **Data Scientist in Training** | **👩‍🏫 Licenciatura em Computação**
 
-Passionate about applying **Data Science and AI** to solve real-world problems in **Security, Infrastructure, and Education**. Currently pursuing a **Teaching Degree in Computer Science (Licenciatura em Computação)** — bridging the gap between technology and teaching.
+I work across two distinct areas of technology:
+- 🔒 **Security, Infrastructure & Networks** — building and protecting systems
+- 📊 **Data Science & AI** — exploring data, patterns and machine learning
 
 ---
-
 ## 🌐 Connect with me
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santos.ingridelias@gmail.com)
