@@ -2,7 +2,6 @@
 
 **Security & Infrastructure Analyst** | **Network Technician** | 
 
-I work across two distinct areas of technology:
 - 🔒 **Security, Infrastructure & Networks** — building and protecting systems
 
 ---
